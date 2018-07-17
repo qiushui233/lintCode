@@ -1,5 +1,7 @@
 package lintCode;
-
+/**
+合并两个排序的整数数组A和B变成一个新的数组
+*/
 import java.util.Arrays;
 
 public class test006 {
