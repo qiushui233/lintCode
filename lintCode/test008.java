@@ -1,6 +1,5 @@
 package lintCode;
 
-import java.util.Arrays;
 
 /**
  * 给定一个字符串和一个偏移量，根据偏移量旋转字符串(从左向右旋转)
