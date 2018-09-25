@@ -3,48 +3,51 @@ lintcode看别人代码要会员  = =  不做了
 LeetCode
 =======
 
-##206
+[206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
-##217
+[217](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet217.java)
 给定一个整数数组，判断是否存在重复元素
 
-##219
+[219](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet219.java)
 给定一个整数数组和一个整数 k，判断数组中是否存在两个不同的索引 i 和 j，使得 nums [i] = nums [j]，并且 i 和 j 的差的绝对值最大为 k
 
-##225
+[225](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet2225.java)
 实现栈  不会
 
-##226
+[226](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet226.java)
 反转二叉树
 
-##231
+[231](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet231.java)
 给定一个整数，编写一个函数来判断它是否是 2 的幂次方。
 
-##234
+[234](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet234.java)
 判断一个链表是否为回文链表。
 
-##235
+[235](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet235.java)
 给定一个二叉搜索树, 找到该树中两个指定节点的最近公共祖先
 
-##237
+[237](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet237.java)
 请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点
 
-##242
+[242](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet242.java)
 给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的一个字母异位词
 
-##257
+[257](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet257.java)
 给定一个二叉树，返回所有从根节点到叶子节点的路径
 
-##258
+[258](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet258.java)
 给定一个非负整数 num，反复将各个位上的数字相加，直到结果为一位数
 
-##263
+[263](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet263.java)
 编写一个程序判断给定的数是否为丑数。
 丑数就是只包含质因数 2, 3, 5 的正整数
 
-##268
+[268](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet268.java)
 给定一个包含 0, 1, 2, ..., n 中 n 个数的序列，找出 0 .. n 中没有出现在序列中的那个数
 
-##278
+[278](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet278.java)
 假设你有 n 个版本 [1, 2, ..., n]，你想找出导致之后所有版本出错的第一个错误的版本
+
+[283](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet283.java)
+给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序

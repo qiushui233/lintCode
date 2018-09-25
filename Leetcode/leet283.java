@@ -21,6 +21,7 @@ public class leet283 {
 
         moveZeroes(a);
 
+
         for (int b: a
              ) {
             System.out.print(b + " ");
@@ -29,15 +30,31 @@ public class leet283 {
     }
 
     public static void moveZeroes(int[] nums) {
-        Arrays.sort(nums);
+
+//        for (int i = 0,j = 1; i < nums.length; j++) {
+//            if (nums[i] == 0){
+//                if (nums[j] != 0){
+//                    int t = nums[j];
+//                    nums[j] = nums[i];
+//                    nums[i] = t;
+//                    i++;
+//                }
+//            }else {
+//                i++;
+//            }
+//        }
 
 
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] == 0){
-                int t = nums[nums.length - 1 - i];
-                nums[i] = t;
-                nums[nums.length - 1 - i] = nums[i];
+        int lastNoneZeroIdx = 0;
+        for(int idx = 0; idx < nums.length;idx++){
+            if(nums[idx] != 0){
+                nums[lastNoneZeroIdx] = nums[idx];
+                if(idx != lastNoneZeroIdx){
+                    nums[idx] = 0;
+                }
+                lastNoneZeroIdx ++;
             }
+
         }
 
 
