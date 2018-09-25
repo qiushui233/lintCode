@@ -12,7 +12,7 @@ LeetCode
 [219](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet219.java)
 给定一个整数数组和一个整数 k，判断数组中是否存在两个不同的索引 i 和 j，使得 nums [i] = nums [j]，并且 i 和 j 的差的绝对值最大为 k
 
-[225](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet2225.java)
+[225](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet225.java)
 实现栈  不会
 
 [226](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet226.java)
