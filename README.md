@@ -2,6 +2,8 @@ lintcode看别人代码要会员  = =  不做了
 
 LeetCode
 =======
+[001](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet001.java)
+给定一个整数数组和一个目标值，找出数组中和为目标值的两个数
 
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
@@ -51,3 +53,6 @@ LeetCode
 
 [283](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet283.java)
 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序
+
+290
+emmm  不会

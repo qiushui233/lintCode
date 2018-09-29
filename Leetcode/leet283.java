@@ -48,7 +48,7 @@ public class leet283 {
         int lastNoneZeroIdx = 0;
         for(int idx = 0; idx < nums.length;idx++){
             if(nums[idx] != 0){
-                nums[lastNoneZeroIdx] = nums[idx];
+                nums[lastNoneZeroIdx] = nums[idx];   //吧不为零的数与零交换
                 if(idx != lastNoneZeroIdx){
                     nums[idx] = 0;
                 }
