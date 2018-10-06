@@ -5,6 +5,18 @@ LeetCode
 [001](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet001.java)
 给定一个整数数组和一个目标值，找出数组中和为目标值的两个数
 
+[007](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet007.java)
+给定一个 32 位有符号整数，将整数中的数字进行反转
+
+[009](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet009.java)
+判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数
+
+[013](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet013.java)
+给定一个罗马数字，将其转换成整数。输入确保在 1 到 3999 的范围内
+
+[014](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet014.java)
+编写一个函数来查找字符串数组中的最长公共前缀
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
