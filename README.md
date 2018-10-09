@@ -17,6 +17,12 @@ LeetCode
 [014](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet014.java)
 编写一个函数来查找字符串数组中的最长公共前缀
 
+[020](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet020.java)
+给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串，判断字符串是否有效。
+
+[021](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet021.java)
+将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
@@ -66,5 +72,5 @@ LeetCode
 [283](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet283.java)
 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序
 
-290
-emmm  不会
+[292](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet292.java)
+Nim游戏：桌子上有一堆石头，每次你们轮流拿掉 1 - 3 块石头。 拿掉最后一块石头的人就是获胜者
