@@ -16,7 +16,7 @@ import java.util.Stack;
  * 输入: "()"
  * 输出: true
  */
-public class leet20 {
+public class leet020 {
     public boolean isValid(String s) {
         if (s == null || s == "") return true;
         if (s.length() % 2 != 0) return false;

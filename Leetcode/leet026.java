@@ -14,7 +14,35 @@ package Leetcode;
  * 你不需要考虑数组中超出新长度后面的元素。
  */
 public class leet026 {
-    public int removeDuplicates(int[] nums) {
 
+    public static void main(String[] args) {
+        int[] a = {0,0,1,1,1,2,2,3,3,4};
+        removeDuplicates(a);
+        for (int c:a
+             ) {
+            System.out.print(c);
+        }
+    }
+
+    public static int removeDuplicates(int[] nums) {
+        int count = 0;
+
+        for(int i = 0; i<nums.length; i++){
+            if(i==0 || nums[i] != nums[i-1]){
+                nums[count++] = nums[i];
+            }
+        }
+
+        return count;
+
+        /*int count = 0;//标记计数          //nums = [1,1,2]
+        for (int i=0; i < nums.length ; i++) {
+            if ( nums[i] != nums[count] ) {
+                count++;
+                nums[count] = nums[i];
+            }
+        }
+
+        return count+=1;*/
     }
 }
