@@ -23,6 +23,18 @@ LeetCode
 [021](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet021.java)
 将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的。
 
+[026](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet026.java)
+给定一个排序数组，你需要在原地删除重复出现的元素，使得每个元素只出现一次，返回移除后数组的新长度。
+
+[027](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet027.java)
+给定一个数组 nums 和一个值 val，你需要原地移除所有数值等于 val 的元素，返回移除后数组的新长度。
+
+[028](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet028.java)
+给定一个 haystack 字符串和一个 needle 字符串，在 haystack 字符串中找出 needle 字符串出现的第一个位置 (从0开始)。如果不存在，则返回  -1。
+
+[035](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet035.java)
+ * 给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
