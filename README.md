@@ -35,6 +35,9 @@ LeetCode
 [035](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet035.java)
  给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。
 
+[053](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet053.java)
+ 给定一个整数数组 nums ，找到一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。
+
 [206](https://github.com/qiushui233/lintCode/blob/master/Leetcode/leet206.java)
 反转一个单链表。
 
